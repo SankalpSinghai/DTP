@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookingUpdate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <documentVersion>1.2</documentVersion>
+ <bookingUpdateDetails>
+ <advertiserAssignedId>EVOLVE_VACATION_RENTAL</advertiserAssignedId>
+ <listingExternalId>418024</listingExternalId>
+ <unitExternalId>418024</unitExternalId>
+ <reservations>
+ <reservation externalId="7428243">
+ <beginDate>2021-10-12</beginDate>
+ <endDate>2021-10-14</endDate>
+ <reservationStatus>CONFIRMED</reservationStatus>
+ <reservationOriginationDate>2018-06-19T15:23:17Z</reservationOriginationDate>
+ </reservation>
+ <reservation externalId="7432628">
+ <beginDate>2018-10-05</beginDate>
+ <endDate>2018-10-09</endDate>
+ <reservationStatus>CONFIRMED</reservationStatus>
+ <reservationOriginationDate>2018-06-22T19:58:37Z</reservationOriginationDate>
+ </reservation>
+ <reservation externalId="7435620">
+ <beginDate>2018-11-02</beginDate>
+ <endDate>2018-11-04</endDate>
+ <reservationStatus>CONFIRMED</reservationStatus>
+ <reservationOriginationDate>2018-06-25T19:08:53Z</reservationOriginationDate>
+ </reservation>
+ </reservations>
+ </bookingUpdateDetails>
+</bookingUpdate>
